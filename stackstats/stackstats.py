@@ -114,8 +114,6 @@ def main():
 
 
 if __name__=="__main__":
-    try:
-        main()
-    except:
-        print "Oups something went wrong check your input, internet connection and the StackExchange API"
+    main()
+    
 
